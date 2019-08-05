@@ -1,0 +1,6 @@
+traget/
+abc.txt
+**/*.class
+*.log
+**/*.jar
+
